@@ -1,0 +1,15 @@
+C:\Users\user\Documents\Github\PACT-TestingTest\PACT-TestingTest\AdventofCodeDay2\AdventofCodeDay2\bin\Debug\net6.0\AdventofCodeDay2.exe
+C:\Users\user\Documents\Github\PACT-TestingTest\PACT-TestingTest\AdventofCodeDay2\AdventofCodeDay2\bin\Debug\net6.0\AdventofCodeDay2.deps.json
+C:\Users\user\Documents\Github\PACT-TestingTest\PACT-TestingTest\AdventofCodeDay2\AdventofCodeDay2\bin\Debug\net6.0\AdventofCodeDay2.runtimeconfig.json
+C:\Users\user\Documents\Github\PACT-TestingTest\PACT-TestingTest\AdventofCodeDay2\AdventofCodeDay2\bin\Debug\net6.0\AdventofCodeDay2.dll
+C:\Users\user\Documents\Github\PACT-TestingTest\PACT-TestingTest\AdventofCodeDay2\AdventofCodeDay2\bin\Debug\net6.0\AdventofCodeDay2.pdb
+C:\Users\user\Documents\Github\PACT-TestingTest\PACT-TestingTest\AdventofCodeDay2\AdventofCodeDay2\obj\Debug\net6.0\AdventofCodeDay2.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Github\PACT-TestingTest\PACT-TestingTest\AdventofCodeDay2\AdventofCodeDay2\obj\Debug\net6.0\AdventofCodeDay2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Github\PACT-TestingTest\PACT-TestingTest\AdventofCodeDay2\AdventofCodeDay2\obj\Debug\net6.0\AdventofCodeDay2.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Github\PACT-TestingTest\PACT-TestingTest\AdventofCodeDay2\AdventofCodeDay2\obj\Debug\net6.0\AdventofCodeDay2.AssemblyInfo.cs
+C:\Users\user\Documents\Github\PACT-TestingTest\PACT-TestingTest\AdventofCodeDay2\AdventofCodeDay2\obj\Debug\net6.0\AdventofCodeDay2.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Github\PACT-TestingTest\PACT-TestingTest\AdventofCodeDay2\AdventofCodeDay2\obj\Debug\net6.0\AdventofCodeDay2.dll
+C:\Users\user\Documents\Github\PACT-TestingTest\PACT-TestingTest\AdventofCodeDay2\AdventofCodeDay2\obj\Debug\net6.0\refint\AdventofCodeDay2.dll
+C:\Users\user\Documents\Github\PACT-TestingTest\PACT-TestingTest\AdventofCodeDay2\AdventofCodeDay2\obj\Debug\net6.0\AdventofCodeDay2.pdb
+C:\Users\user\Documents\Github\PACT-TestingTest\PACT-TestingTest\AdventofCodeDay2\AdventofCodeDay2\obj\Debug\net6.0\AdventofCodeDay2.genruntimeconfig.cache
+C:\Users\user\Documents\Github\PACT-TestingTest\PACT-TestingTest\AdventofCodeDay2\AdventofCodeDay2\obj\Debug\net6.0\ref\AdventofCodeDay2.dll
